@@ -22,3 +22,6 @@ if ( userNut > cpuNut ) {
 } else {
     alert (`Mi dispiace, Hai perso!Ritenta!`)
 }
+
+//aggiungo ricarica della pagina
+window.location.reload();
