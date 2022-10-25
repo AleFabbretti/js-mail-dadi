@@ -29,4 +29,5 @@ for ( let i = 0; i < validMails.length; i++) {
     }
 }
 
-
+//aggiungo ricarica della pagina
+window.location.reload();
